@@ -1,9 +1,7 @@
-### Hi there 👋
-
 
 # Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="33px"> I am  Masum Raza.
 
-### I'm an Automation Test Engineer having good knowledge in Java with different testing tools like Selenium, Postman, Cucumber, Maven, etc....
+### I'm an Automation Test Engineer at Cognizant. I have	Extensive experience in Java with different testing tools like Selenium, Postman, Cucumber, Maven, etc....
 
 
 
