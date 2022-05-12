@@ -1,7 +1,7 @@
 
 # Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="33px"> I am  Masum Raza.
 
-### I'm an Automation Test Engineer at Cognizant. I have extensive experience in Java with multiple testing tools like Selenium, Postman, Cucumber, Maven, etc.
+### I'm an Automation Test Engineer at Cognizant. I have extensive experience in Java with multiple testing tools like Selenium,TestCafe, Postman, Cucumber, Maven, etc.
 
 ## 👩‍💻 Programming Skills 
 [<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/java.svg" />](https://www.oracle.com/in/java/) &nbsp;
@@ -14,6 +14,7 @@
 
 ## 🧰 Tools Knowledge 
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1920px-Selenium_logo.svg.png" />](https://www.selenium.dev/documentation/webdriver/getting_started/)&nbsp;
+[<img height="30" src="https://raw.githubusercontent.com/DevExpress/testcafe-gh-page-assets/master/src/images/testcafe-ogp-icon.png" />](https://testcafe.io/documentation/402634/guides)&nbsp;
 [<img height="30" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/postman.svg" />](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)&nbsp;&nbsp;
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1920px-Apache_Maven_logo.svg.png" />](https://maven.apache.org/guides/)&nbsp;&nbsp;
 [<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" />](https://www.jenkins.io/doc/)&nbsp;&nbsp;
