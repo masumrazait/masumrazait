@@ -1,5 +1,5 @@
 
-# Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="33px"> I am  Masum Raza.
+# Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="16px"> I am  Masum Raza.
 
 ### I'm an Automation Test Engineer at Cognizant. I have extensive experience in Java with multiple testing tools like Selenium,TestCafe, Postman, Cucumber, Maven, etc.
 
