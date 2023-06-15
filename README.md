@@ -30,7 +30,7 @@
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://mobile.twitter.com/masum_raza_)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/masum-raza-32545269/) &nbsp;
 [<img height="30" src="[https://cdn.worldvectorlogo.com/logos/facebook-3.svg](https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png)" />](https://www.facebook.com/masumit1526) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/masum_raza_1526_/?hl=en) &nbsp;
+[<img height="30" src="[https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg](https://cdnlogo.com/logo/instagram_475.html"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg)" />](https://www.instagram.com/masum_raza_1526_/?hl=en) &nbsp;
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/CEMKIT1526)
 
 
