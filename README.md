@@ -1,7 +1,7 @@
 
 # Hi <img src="https://github.com/masumrazait/AT_Project_MyStd/blob/main/src/test/java/com/myStudent/testData/hi.gif" width="16px"> I am  Masum Raza.
 
-### I'm an Automation Test Engineer at Cognizant. I have extensive experience in Java with multiple testing tools like Selenium,TestCafe, Postman, Cucumber, Maven, etc.
+### Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium, BigQuery, Postman, Cucumber, and Maven. Currently working at Cognizant, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.
 
 ## 👩‍💻 Programming Skills 
 [<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/java.svg" />](https://www.oracle.com/in/java/) &nbsp;
