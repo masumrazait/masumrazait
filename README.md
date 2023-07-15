@@ -4,7 +4,7 @@
 ### <i>Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium,Cypress, BigQuery, Postman, Cucumber, and Maven. Currently working at Cognizant, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.</i>
 
 ## 👩‍💻 Programming Skills 
-[<img height="35" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" />](https://www.oracle.com/in/java/) &nbsp;
+[<img height="35" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.oracle.com/in/java/) &nbsp;
 [<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/angularjs.svg" />](https://www.w3schools.com/angular/angular_intro.asp) &nbsp;
 [<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://docs.python.org/3/tutorial/) &nbsp;
 [<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/html5.svg" />](https://www.w3schools.com/html/default.asp/) &nbsp;
