@@ -1,5 +1,6 @@
+# <i>Masum Raza,</i> <img height="45" style="padding: 0em; margin-left: 10px;" src="https://1.bp.blogspot.com/-kP6bmmixhvg/YDbA3kZ-75I/AAAAAAAA4Os/YS5VBD0fGnMgMteNDso4OWSsD-alvMyhgCLcBGAsYHQ/s0/Flag_of_India.gif" width="80" />
 
-# <i>Masum  Raza,</i>
+
 
 ### <i>Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium,Cypress, BigQuery, Postman, Cucumber, and Maven. Currently working at Cognizant, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.</i>
 
