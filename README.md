@@ -27,7 +27,6 @@
 ## 📫 Connect with me.
 [<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:masumrazait@gmail.com) &nbsp;
 [<img height="30" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/stackoverflow.svg" />](https://stackoverflow.com/users/12569370/masum-raza) &nbsp;
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/) 
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://mobile.twitter.com/masum_raza_)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/masum-raza-32545269/) &nbsp;
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/CEMKIT1526)
