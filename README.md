@@ -2,7 +2,7 @@
 
 
 
-### <i>Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium,Cypress, BigQuery, Postman, Cucumber, and Maven. Currently working at Cognizant, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.</i>
+### <i>Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium,Cypress, BigQuery, Postman, Cucumber, and Maven. Currently working at Capgemini, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.</i>
 
 ## 👩‍💻 Programming Skills 
 [<img height="35" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.oracle.com/in/java/) &nbsp;
