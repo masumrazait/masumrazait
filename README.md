@@ -1,49 +1,21 @@
-# <i>Masum Raza,</i> <img height="45" style="padding: 0em; margin-left: 10px;" src="https://1.bp.blogspot.com/-kP6bmmixhvg/YDbA3kZ-75I/AAAAAAAA4Os/YS5VBD0fGnMgMteNDso4OWSsD-alvMyhgCLcBGAsYHQ/s0/Flag_of_India.gif" width="80" />
+# 💫 About Me:
+👯 I’m looking to collaborate on innovative automation testing projects that push the boundaries of quality assurance.<br><br>🤝 I’m looking for help with advanced techniques in test automation and strategies for integrating AI into testing processes.<br><br>🌱 I’m currently learning new tools and frameworks that enhance automated testing, such as Playwright and REST Assured, to broaden my expertise.<br><br>💬 Ask me about my experiences with implementing CI/CD pipelines and how I’ve utilized automation to improve project delivery times.<br><br>⚡ Fun fact: I once automated a testing process that reduced testing time by 70%, allowing my team to focus on more strategic initiatives!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masumrazait1526/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/12569370/masum-raza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/masum_raza_) 
 
-### <i>Experienced Automation Test Engineer with proficiency in Java and expertise in Selenium,Cypress, BigQuery, Postman, Cucumber, and Maven. Currently working at Capgemini, where I have been recognized with three prestigious awards, including the Coral award and two Amber awards, for my exceptional contributions to projects. Skilled in designing and implementing robust automated testing frameworks, collaborating with cross-functional teams, and ensuring effective communication. Passionate about staying updated with industry trends and continuously improving testing processes. Committed to delivering exceptional results within challenging timelines. Let's connect and achieve testing excellence together.</i>
+# 💻 Tech Stack:
+![Selenium](https://img.shields.io/badge/selenium-%23C33A31.svg?style=for-the-badge&logo=selenium&logoColor=white) ![API Testing](https://img.shields.io/badge/API%20Testing-%2344C7F4.svg?style=for-the-badge&logo=postman&logoColor=white) ![Database Testing](https://img.shields.io/badge/Database%20Testing-%23008000.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%2338B2B9.svg?style=for-the-badge&logo=cypress&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=masumrazait&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=masumrazait&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumrazait&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👩‍💻 Programming Skills 
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.oracle.com/in/java/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/angularjs.svg" />](https://www.w3schools.com/angular/angular_intro.asp) &nbsp;
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://docs.python.org/3/tutorial/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/html5.svg" />](https://www.w3schools.com/html/default.asp/) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/css3.svg" />](https://www.w3schools.com/css/default.asp) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/php.svg" />](https://www.w3schools.com/php/default.asp) &nbsp;
-[<img height="35" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/Animation.gif" />](https://www.w3schools.com/bootstrap5/index.php) &nbsp;
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=masumrazait&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🧰 Tools Knowledge 
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1920px-Selenium_logo.svg.png" />](https://www.selenium.dev/documentation/webdriver/getting_started/)&nbsp;
-[<img height="30" src="https://codecept.io/img/testcafe.png" />](https://testcafe.io/documentation/402634/guides)&nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/postman.svg" />](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1920px-Apache_Maven_logo.svg.png" />](https://maven.apache.org/guides/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" />](https://www.jenkins.io/doc/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />](https://github.com)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png" />](https://www.w3schools.com/sql/default.asp)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Microsoft_365.svg/1920px-Microsoft_365.svg.png" />](https://www.makeuseof.com/tag/microsoft-office-tutorials-courses/)&nbsp;&nbsp;
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />](https://www.linux.org/)
+---
+[![](https://visitcount.itsvg.in/api?id=masumrazait&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 📫 Connect with me.
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:masumrazait@gmail.com) &nbsp;
-[<img height="30" src="https://raw.githubusercontent.com/masumrazait/AT_Project_MyStd/main/src/test/java/com/myStudent/testData/stackoverflow.svg" />](https://stackoverflow.com/users/12569370/masum-raza) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://mobile.twitter.com/masum_raza_)
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/in/masum-raza-32545269/) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/CEMKIT1526)
-
-
-
-<!--
-**masumrazait/masumrazait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
