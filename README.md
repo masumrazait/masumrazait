@@ -1,10 +1,10 @@
 # 💫 About Me  
 
 👯 I’m excited to collaborate on **cutting-edge automation testing projects** that push the limits of software quality and innovation. <br>  
-🤝 Constantly exploring **next-gen test automation strategies**, with a strong focus on **AI, GenAI, and intelligent agents** to reshape how QA delivers value. <br>  
-🌱 Currently upskilling with modern tools like **Playwright, REST Assured, Cypress, and AI-driven frameworks** to stay ahead in the fast-evolving testing landscape. <br> 
-💬 Ask me about **CI/CD pipelines, cloud-based testing, and how I’ve accelerated project delivery timelines** by embedding automation into DevOps. <br> 
-⚡ Fun fact: I once automated a regression suite that cut execution time by **70%**, freeing up my team to focus on **innovation instead of repetition**. <br>
+🤝 Constantly exploring **next-gen test automation strategies**, with a strong focus on **AI, GenAI, and intelligent agents** to reshape how QA delivers value. <br>    
+🌱 Currently upskilling with modern tools like **Playwright, REST Assured, Cypress, and AI-driven frameworks** to stay ahead in the fast-evolving testing landscape. <br>  
+💬 Ask me about **CI/CD pipelines, cloud-based testing, and how I’ve accelerated project delivery timelines** by embedding automation into DevOps. <br>   
+⚡ Fun fact: I once automated a regression suite that cut execution time by **70%**, freeing up my team to focus on **innovation instead of repetition**. <br>  
 
 🚀 **My Future-Ready QA Vision** – building **intelligent, resilient, and self-adaptive test ecosystems** with the power of AI:  
 ✨ **AI-powered test case generation** – Generating optimized test scenarios automatically, boosting coverage.  
