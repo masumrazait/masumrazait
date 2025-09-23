@@ -126,13 +126,9 @@ _AI-Powered Automation Test Engineer | Building Intelligent, Self-Adaptive QA Fr
 
 # 📊 GitHub Stats:  
 <!-- GitHub Stats Card -->
-![Masum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masumrazait&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=900&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=1e1e2f)
-
-<!-- GitHub Streak Card -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masumrazait&theme=radical&hide_border=false&card_width=900&background=1e1e2f&stroke=ff79c6&fire=ffb86c&currStreakNum=50fa7b&sideNums=f8f8f2)
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masumrazait&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=900&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=1e1e2f)
+![](https://github-readme-stats.vercel.app/api?username=masumrazait&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&card_width=900)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=masumrazait&theme=default_repocard&hide_border=false&card_width=900)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumrazait&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=900)  
 
 
 <div align="center">
