@@ -144,8 +144,8 @@ _AI-Powered Automation Test Engineer | Building Intelligent, Self-Adaptive QA Fr
 
 ### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=masumrazait&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=masumrazait)    ![GitHub Profile Views](https://komarev.com/ghpvc/?username=masumrazait&color=ff79c6&style=flat-square&label=Profile%20Views)
 
-[![](https://visitcount.itsvg.in/api?id=masumrazait&icon=2&color=1)](https://visitcount.itsvg.in)  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Red Line GIF" width="100%"/>
